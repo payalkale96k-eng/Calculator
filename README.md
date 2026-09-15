@@ -25,11 +25,11 @@ A simple, responsive, and user-friendly calculator built using HTML, CSS, and Ja
 
 📂 Project Structure
 
-Calculator/
-│
-├── index.html
-├── style.css
-└── script.js
+Calculator/<br/>
+│<br/>
+├── index.html<br/>
+├── style.css<br/>
+└── script.js<br/>
 
 🚀 How to Run
 
@@ -41,17 +41,17 @@ Calculator/
 
 ⌨️ Keyboard Shortcuts
 
-Key| Function
-"0-9"| Enter numbers
-"+"| Addition
-"-"| Subtraction
-"*"| Multiplication
-"/"| Division
-"%"| Percentage
-"."| Decimal
-"Enter"| Calculate
-"Backspace"| Delete
-"Escape"| Clear
+Key| Function<br/>
+"0-9"| Enter numbers<br/>
+"+"| Addition<br/>
+"-"| Subtraction<br/>
+"*"| Multiplication<br/>
+"/"| Division<br/>
+"%"| Percentage<br/>
+"."| Decimal<br/>
+"Enter"| Calculate<br/>
+"Backspace"| Delete<br/>
+"Escape"| Clear<br/>
 
 📸 Preview
 
